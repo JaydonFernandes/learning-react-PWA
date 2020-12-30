@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/learning-react-PWA/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/learning-react-PWA/static/js/main.dc5f6b88.chunk.js",
+    "main.js.map": "/learning-react-PWA/static/js/main.dc5f6b88.chunk.js.map",
+    "runtime-main.js": "/learning-react-PWA/static/js/runtime-main.81ba2768.js",
+    "runtime-main.js.map": "/learning-react-PWA/static/js/runtime-main.81ba2768.js.map",
+    "static/js/2.311d60e9.chunk.js": "/learning-react-PWA/static/js/2.311d60e9.chunk.js",
+    "static/js/2.311d60e9.chunk.js.map": "/learning-react-PWA/static/js/2.311d60e9.chunk.js.map",
+    "static/js/3.73a1c5a5.chunk.js": "/learning-react-PWA/static/js/3.73a1c5a5.chunk.js",
+    "static/js/3.73a1c5a5.chunk.js.map": "/learning-react-PWA/static/js/3.73a1c5a5.chunk.js.map",
+    "index.html": "/learning-react-PWA/index.html",
+    "service-worker.js": "/learning-react-PWA/service-worker.js",
+    "service-worker.js.map": "/learning-react-PWA/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/learning-react-PWA/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.311d60e9.chunk.js.LICENSE.txt": "/learning-react-PWA/static/js/2.311d60e9.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/learning-react-PWA/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ba2768.js",
+    "static/js/2.311d60e9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.dc5f6b88.chunk.js"
+  ]
+}
